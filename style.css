@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'KIMM_Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/KIMM_Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    font-family: "KIMM_Bold";
+    font-weight: 700;
+    margin: 0;
+}
+
+#container {
+    width: 100;
+    height: 100vh;
+}
+
+
+.start {
+    background-color: #a29bfe;
+    color: #ffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align:  center;
+    font-size: 30px;
+}
+
+.cat_1{
+    background-color: #d6d0fc;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    width: 70%;
+    padding: 50px;
+}
+
+.img_1{
+    width: 100%;
+    border-radius: 50px;
+    padding-bottom: 30px;
+}
+
+.title_1{
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.content_1{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.meow_1{
+    text-align: center;
+}
+
+.button_1{
+    background-color: black;
+    color:#ffff;
+    border-radius: 30px;
+    width: 150px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.end{
+    background-color: #a29bfe;
+    color: #ffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 50px;
+    margin-top: 50px;
+    text-align:  center;
+    font-size: 25px;
+}
+
+.hello{
+    background-color: #a29bfe;
+    margin-top: 50px;
+    padding:50px;
+    font-size: 25px;
+}
